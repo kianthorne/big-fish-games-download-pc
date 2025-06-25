@@ -1,4 +1,4 @@
-project = 'Avast Antivirus Guide'
+project = 'Big Fish Games Guide'
 author = 'Your Name'
 release = '1.0'
 
@@ -13,4 +13,5 @@ html_static_path = ['_static']
 html_js_files = [
     'chat.js',]
 
-html_favicon = '_static/avast.jpg'
+html_favicon = '_static/bigfish.jpg'
+
